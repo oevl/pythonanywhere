@@ -1,0 +1,12 @@
+This is a log for my Python projects
+
+When I accomplish something, I write a * line that day.
+
+Whenever a bug / missing feature / idea is mentioned during the day and I don't fix it, I make a note of it and mark it with ? (some things get noted many times before they get fixed).
+
+Occasionally I go back through the old notes and mark with a + the things I have since fixed, and with a ~ the things I have since lost interest in.
+
+--- Omar Vasquez Lima
+
+# 2020-12-15
+* Fixed a regex definition in PyOrgMode and now I can use it to create scheduled org-mode files. https://github.com/oevl/PyOrgMode
