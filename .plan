@@ -9,5 +9,5 @@ Occasionally I go back through the old notes and mark with a + the things I have
 --- Omar Vasquez Lima
 
 # 2020-12-15
-* Setup a git repo https://github.com/oevl/pythonanywhere.git
+* Setup a git repo for the projects to be run here. https://github.com/oevl/pythonanywhere.git
 * Fixed a regex definition in PyOrgMode and now I can use it to create scheduled org-mode files. https://github.com/oevl/PyOrgMode
