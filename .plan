@@ -13,6 +13,6 @@ Inspired by https://matteolandi.net/.plan
 # 2020-12-15
 ? Trying to set a cron job to pull only the .plan file from the github repo. +pythonanywhere
     ! There's no access to cron jobs for PythonAnywhere accounts, just scheduled tasks, on a fixed time for free accounts, with more flexible settings for paying accounts. 
-Changed the example bottle app to serve my .plan file. +pythonanywhere +bottle
+* Changed the example bottle app to serve my .plan file. +pythonanywhere +bottle
 * Setup a git repo for the projects to be run here. https://github.com/oevl/pythonanywhere.git +pythonanywhere
 * Fixed a regex definition in PyOrgMode and now I can use it to create scheduled org-mode files. https://github.com/oevl/PyOrgMode +tblcks 
